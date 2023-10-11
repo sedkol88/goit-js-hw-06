@@ -92,6 +92,9 @@ alt: "Group of Horses Running",
 <input type="text" id="name-input" placeholder="Please enter your name" />
 <h1>Hello, <span id="name-output">Anonymous</span>!</h1>
 
+.
+.
+.
 Задание 6
 Напиши скрипт, который при потере фокуса на инпуте (событие blur), проверяет его содержимое на правильное количество введённых символов.
 
