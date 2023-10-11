@@ -131,6 +131,9 @@ border-color: #f44336;
 <br />
 <span id="text">Abracadabra!</span>
 
+.
+.
+.
 Задание 8
 Напиши скрипт управления формой логина.
 
