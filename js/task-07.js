@@ -1,5 +1,9 @@
-const input = document.querySelector("input#font-size-control");
-const span = document.querySelector("span#text");
+const breakEl = document.querySelector('br');
+const input = breakEl.previousElementSibling;
+const span = breakEl.nextElementSibling;
+
+// const input = document.querySelector("input#font-size-control");
+// const span = document.querySelector("span#text");
 
 span.setAttribute("style", "font-size: 56px");
 
